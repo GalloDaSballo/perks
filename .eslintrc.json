@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb-typescript-prettier",
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "jsx-a11y/anchor-is-valid": "off" // Next spreads the prop from Link to a
+  }
+}
